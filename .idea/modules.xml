@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Background-gen.iml" filepath="$PROJECT_DIR$/.idea/Background-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TestingReact.iml" filepath="$PROJECT_DIR$/.idea/TestingReact.iml" />
     </modules>
   </component>
 </project>
